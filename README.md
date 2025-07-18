@@ -18,5 +18,5 @@ Este repositório contém os projetos e atividades desenvolvidos durante minha f
 
 ## Sobre mim
 
-Sou estudante de Ciência de Dados com foco em Python, análise e visualização de dados. Compartilho aqui meus estudos e projetos em andamento.
+Sou estudante de Ciência da computaçao com foco em  dados, Python, análise e visualização de dados. Compartilho aqui meus estudos e projetos em andamento.
 
